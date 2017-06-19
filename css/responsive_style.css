@@ -309,6 +309,9 @@
 
     .col-md-6.title_chart {
         padding: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     /*------ curriculum ------*/
