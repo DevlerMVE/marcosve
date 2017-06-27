@@ -544,6 +544,7 @@ h3.profile-title {
 
     -moz-animation-duration: 2s;
     -moz-animation-delay: 1s;
+    white-space: nowrap;
 }
 
 .about.container a:hover {
