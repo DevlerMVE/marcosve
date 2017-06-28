@@ -19,6 +19,9 @@ h3.profile-title,
 .social-icons a,
 .contact-form .button:hover {
   color: $c_light_text;
+  background: {
+    color: $c_dark;
+  };
 }
 
 .welcome-text {

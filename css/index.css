@@ -2684,7 +2684,8 @@ h3.profile-title,
 .main-navigation li a,
 .social-icons a,
 .contact-form .button:hover {
-  color: #dedede; }
+  color: #dedede;
+  background-color: #292929; }
 
 .welcome-text h2, .welcome-text h3, .welcome-text h5 {
   color: #dedede; }
