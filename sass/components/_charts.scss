@@ -1,0 +1,41 @@
+#charts {
+  &.row {
+    &.padding {
+      padding-top: 40px;
+    }
+  }
+}
+
+.no-padding {
+  text-align: center;
+}
+
+#html_five,
+#android,
+#design {
+  strong {
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: $c_medium_dark;
+    i.fa.fa-percent {
+      font-size: 15px;
+      padding-left: 5px;
+    }
+  }
+}
+
+.title_chart {
+  padding-top: 45px;
+  h5 {
+    font-size: 150%;
+  }
+}

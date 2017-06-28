@@ -1,0 +1,79 @@
+.sidebar-menu {
+  float: left;
+  width: 30%;
+  height: 100%;
+  position: fixed;
+  background-color: $c_dark;
+  color: #aaaaaa;
+  overflow-y: hidden;
+  text-align: right;
+}
+
+.top-section {
+  padding: 5%;
+}
+
+.profile-image {
+  width: 30%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 20px;
+  float: right;
+  img {
+    width: 100%;
+    border-radius: 50%;
+  }
+}
+
+.profile-title {
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-family: 'robotobold';
+}
+
+.main-navigation {
+  margin: 15px 0;
+  li {
+    display: block;
+    a {
+      padding: 15px 40px;
+      display: block;
+      font-size: 14px;
+      float: none;
+      height: auto;
+      width: auto;
+      &:hover {
+        background: #3a3a3a;
+      }
+      &.active:hover {
+        background: #dcdcdc;
+      }
+      i {
+        margin-right: 15px;
+        font-size: 24px;
+      }
+    }
+  }
+}
+
+.social-icons {
+  display: block;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  li {
+    display: inline-block;
+    margin-right: 20px;
+    @each $social, $c_social in (facebook, #3b5998), (googleplus, #E53935), (linkedin, #0077b5), (github, #000), (gilab, #ff7700) {
+      &##{$social} {
+        a:hover {
+          color: $c_social;
+        }
+      }
+    }
+  }
+  a {
+    font-size: 18px;
+  }
+}
