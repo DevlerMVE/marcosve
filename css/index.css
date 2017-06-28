@@ -2712,7 +2712,8 @@ main {
 
 body {
   line-height: 1;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  color: #777; }
 
 ol,
 ul {
