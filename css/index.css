@@ -2688,7 +2688,8 @@ h3.profile-title,
   background-color: #292929; }
 
 .welcome-text h2, .welcome-text h3, .welcome-text h5 {
-  color: #dedede; }
+  color: #dedede;
+  display: none; }
 
 ::-webkit-input-placeholder,
 :-moz-placeholder,
