@@ -1,0 +1,84 @@
+#projects .col-md-6 {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.projects-holder {
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 40px;
+  .col-md-4 {
+    padding-right: 1px;
+    padding-left: 1px;
+  }
+}
+.project-item {
+  width: 100%;
+  height: 35vh;
+  margin-bottom: 2px;
+  overflow: hidden;
+  position: relative;
+  img {
+    width: 100%;
+    display: block;
+  }
+  &:hover .project-hover {
+    top: 0;
+    opacity: 1;
+    visibility: visible;
+  }
+  &.mobile {
+    height: auto;
+  }
+}
+
+.project-hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 40px;
+  left: 0;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  visibility: hidden;
+  $transition: all 200ms linear;
+  -webkit-transition: $transition;
+  -moz-transition: $transition;
+  -ms-transition: $transition;
+  -o-transition: $transition;
+  transition: $transition;
+  .inside {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 0 30px 30px;
+    &.mobile {
+      position: inherit;
+      width: 100%;
+      padding: 30px;
+    }
+  }
+  h5 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: white;
+    .fa {
+      padding-right: 5%;
+    }
+  }
+  p {
+    color: white;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  div.link i {
+    font-size: 25px;
+    padding: 22.5px;
+  }
+  &.mobile {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+  }
+}

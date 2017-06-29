@@ -3,6 +3,7 @@
   background-size: cover;
   z-index: 1;
   height: 100vh;
+
 }
 .banner-overlay {
   position: absolute;
@@ -18,8 +19,8 @@
   padding: 260px 80px;
   h2 {
     font-size: 42px;
-    font-family: 'robotobold';
     margin-bottom: 30px;
+    font-family: $font_roboto_bold;
   }
   h3 {
     font-size: 20px;
@@ -38,7 +39,7 @@
     -moz-animation-duration: 1s;
     -moz-animation-delay: 0.5s;
     samp {
-      font-family: 'Relish Pro';
+      font-family: $font_relish_pro;
       font-size: 2.4rem;
       padding-left: 1%;
     }
@@ -70,6 +71,11 @@
       &:hover{
         background-color: #fbfafd;
         color: $c_medium_dark;
+      }
+      @media screen and (max-width: 991px) {
+        left: 35%;
+        width: 30%;
+        right: 35%;
       }
     }
   }

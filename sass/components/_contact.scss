@@ -1,0 +1,28 @@
+.contact-form {
+  margin-top: 40px;
+  input, textarea {
+    width: 100%;
+    outline: 0;
+    border: 1px solid #aaaaaa;
+    padding: 12px;
+    color: #999999;
+    margin-bottom: 30px;
+    &:focus{
+      outline: 0;
+    }
+  }
+  .button {
+    width: auto;
+    text-transform: uppercase;
+    border: 1px solid $c_medium_dark;
+  }
+}
+
+#contact .row #email_icon.col-md-4 .col-md-2,
+#contact .row #telegram.col-md-4 .col-md-2 {
+  text-align: center;
+}
+
+#contact .row #telegram.col-md-4 .col-md-2 {
+  color: #2ca5e0;
+}

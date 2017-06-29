@@ -1,0 +1,36 @@
+.skill {
+  margin-top: 50px;
+  li {
+    margin-bottom: 50px;
+    span strong {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      line-height: 5px !important;
+      display: block;
+      font-weight: normal;
+      white-space: nowrap;
+      font-size: $font_13;
+    }
+  }
+}
+
+.skill-wrap {
+  background-color: $c_light_background;
+  border-radius: 2px;
+  height: 25px;
+  span {
+    background-color: $c_medium_dark;
+    border-radius: 2px;
+    padding: 3px;
+    height: 25px;
+    display: block;
+    color: $c_white;
+    position: relative;
+    overflow: hidden;
+    width: 0;
+  }
+  i.fa.fa-percent {
+    font-size: $font_10;
+  }
+}

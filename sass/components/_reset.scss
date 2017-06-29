@@ -21,10 +21,28 @@ h3.profile-title,
   color: $c_light_text;
   background: {
     color: $c_dark;
-  };
+  }
+}
+
+h3.profile-title {
+  @media screen and (max-width: 991px) {
+    background: transparent;
+    color: $c_medium_dark;
+  }
+}
+
+.main-navigation li a {
+  @media screen and (max-width: 991px) {
+    background: transparent;
+    color: $c_medium_dark;
+  }
 }
 
 .welcome-text {
+  @media screen and (max-width: 991px) {
+    padding: 50% 15%;
+    height: auto;
+  }
   h2, h3, h5 {
     color: $c_light_text;
     display: none;
@@ -255,16 +273,25 @@ a {
 .banner-bg {
   float: right;
   width: 70%;
+  @media screen and (max-width: 1290px) {
+    width: 70%;
+  }
+  @media screen and (max-width: 991px) {
+    width: 100%;
+  }
 }
 
 .page-section {
   padding: 80px;
+  @media screen and (max-width: 991px) {
+    padding: 25px;
+  }
 }
 
 h4 {
   &.widget-title {
     font-size: 1.5rem;
-    font-family: 'robotobold';
+    font-family: $font_roboto_bold;
     text-transform: uppercase;
     margin-bottom: 40px;
   }

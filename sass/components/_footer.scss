@@ -1,0 +1,28 @@
+#footer {
+  padding-top: 0;
+  padding-bottom: 0;
+  p.copyright-text {
+    margin: 40px 0;
+    font-size: 13px;
+    span {
+      font-family: $font_relish_pro;
+      margin: 40px 0;
+      font-size: 1rem;
+      padding: 5px;
+    }
+    a:hover {
+      color: #6cc0f7;
+    }
+  }
+}
+
+// Google Maps
+.map {
+  padding-bottom: 0;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+#map {
+  height: 65vh;
+}
