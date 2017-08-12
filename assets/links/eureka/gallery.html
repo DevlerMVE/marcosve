@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!--[if IE]>
+    <meta http-equiv="x-ua-compatible" content="IE=9"/><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Eureka Project</title>
+    <meta name="description" content="Marcos's Concept of Eureka project">
+    <meta name="author" content="Marcos Vicente Espasandín">
+    <meta name="theme-color" content="#f8f8f8">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="font-awesome-4.2.0/css/font-awesome.css">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/default-skin/default-skin.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive_style.css">
+    <link rel="stylesheet" href="css/photoswipe.css">
+    <script type="text/javascript" src="js/vendor/modernizr.custom.js"></script>
+
+    <!--Google Font-->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet'
+          type='text/css'>
+</head>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <a class="navbar-brand bold" href="index.html#work">The Eureka Project</a>
+    </div>
+</nav>
+<div class="container header_gallery">
+    <div class="page-section">
+        <header>
+            <div class="row" id="photos_icon">
+                <i class="fa fa-camera-retro" aria-hidden="true"></i>
+            </div>
+            <h2>My Photos</h2>
+            <p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
+                Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis
+                arcu, id varius justo euismod in. Curabitur egestas consectetur magna vitae.</p>
+        </header>
+    </div>
+    <div class="container">
+        <hr/>
+        <div class="row" id="footer">
+            <div class="col-md-12 text-center">
+                <p class="copyright-text">Copyright &copy; 2016 Marcos Vicente Espasandín</p>
+                <div class="t-social2"> <!-- Developer's Social Connect -->
+                    <a href="#"><i class="fa fa-facebook tsocial"></i></a>
+                    <a href="#"><i class="fa fa-pinterest tsocial"></i></a>
+                    <a href="#"><i class="fa fa-linkedin tsocial"></i></a>
+                    <a href="#"><i class="fa fa-twitter tsocial"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container" id="photos">
+</div>
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe.
+         It's a separate element, as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+        <div class="pswp__container">
+            <!-- don't modify these 3 pswp__item elements, data is added later on -->
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div><!--.PhotoSwipe-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/vendor/jquery.1.11.1.js"></script>
+<script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/vendor/photoswipe.min.js"></script>
+<script type="text/javascript" src="js/vendor/photoswipe-ui-default.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
