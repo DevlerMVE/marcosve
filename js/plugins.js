@@ -261,7 +261,7 @@ if (typeof Object.create !== 'function') {
 
 //MAPA
 function initMap() {
-    var meposition = {lat: 42.863006, lng: -8.657544};
+    var meposition = {lat: 42.868464, lng:  -8.544887};
 
     // Create an array of styles.
     var styles = [
