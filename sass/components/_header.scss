@@ -18,27 +18,31 @@
 }
 
 .profile-image {
-  width: 30%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
+  width: $s-header-img;
+  height: $s-header-img;
+  @include border-radius-mv($s-header-img);
   overflow: hidden;
   margin-bottom: 20px;
   float: right;
-  img {
-    width: 100%;
-    border-radius: 50%;
-    @media screen and (max-width: 991px) {
-      border: none;
-    }
-  }
+  box-sizing: border-box;
+  position: relative;
+  @include background-img-mv('../../img/profile.jpeg', cover, center, no-repeat);
   @media screen and (max-width: 991px) {
     width: 35px;
     height: 35px;
-    -webkit-border-radius: 50px;
-    border-radius: 50%;
     overflow: hidden;
     border: 0 solid white;
     margin-top: 15px;
+  }
+  &:before {
+    content: "";
+    width: $s-header-img;
+    height: $s-header-img;
+    border: 5px solid $c_profile-border;
+    @include border-radius-mv($s-header-img);
+    position: absolute;
+    left: 0;
+    top: 0;
   }
 }
 

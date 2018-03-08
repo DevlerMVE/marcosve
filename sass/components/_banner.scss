@@ -5,6 +5,7 @@
   height: 100vh;
 
 }
+
 .banner-overlay {
   position: absolute;
   width: 100%;
@@ -14,6 +15,7 @@
   z-index: 2;
   padding: 5%;
 }
+
 .welcome-text {
   position: relative;
   padding: 260px 80px;
@@ -23,11 +25,11 @@
     font-family: $font_roboto_bold;
   }
   h3 {
+    color: $c_placeholder;
     font-size: 20px;
     padding-top: 1%;
     -webkit-animation-duration: 2s;
     -webkit-animation-delay: 1s;
-
     -moz-animation-duration: 2s;
     -moz-animation-delay: 1s;
   }
@@ -38,37 +40,37 @@
 
     -moz-animation-duration: 1s;
     -moz-animation-delay: 0.5s;
-    samp {
+    spam {
       font-family: $font_relish_pro;
       font-size: 2.4rem;
       padding-left: 1%;
     }
   }
 }
-.about{
-  &.container{
-    a{
-      display: none;
 
+.about {
+  &.container {
+    a {
+      display: none;
       text-align: center;
-      padding: 12px;
+      padding: $s-btn-padding;
       background: transparent;
       border: 2px solid white;
       text-transform: uppercase;
       color: white;
+      width: $s-button;
       position: absolute;
       bottom: 5%;
-      left: 45%;
-      width: 10%;
-      right: 45%;
-
+      left: 0;
+      right: 0;
+      margin: auto;
       -webkit-animation-duration: 2s;
       -webkit-animation-delay: 1s;
 
       -moz-animation-duration: 2s;
       -moz-animation-delay: 1s;
       white-space: nowrap;
-      &:hover{
+      &:hover {
         background-color: #fbfafd;
         color: $c_medium_dark;
       }
@@ -80,6 +82,7 @@
     }
   }
 }
+
 #vertical {
   display: none;
 

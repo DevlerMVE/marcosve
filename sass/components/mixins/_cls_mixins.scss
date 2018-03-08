@@ -1,0 +1,11 @@
+@mixin border-radius-mv($size) {
+  -webkit-border-radius: $size;
+  border-radius: $size;
+}
+
+@mixin background-img-mv($img, $size, $position, $repeat) {
+  background-image: url($img);
+  background-size: $size;
+  background-position: $position;
+  background-repeat: $repeat;
+}
