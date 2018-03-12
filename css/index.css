@@ -2988,7 +2988,7 @@ hr {
   float: right;
   box-sizing: border-box;
   position: relative;
-  background-image: url("../../img/profile.jpeg");
+  background-image: url("../img/profile.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; }
