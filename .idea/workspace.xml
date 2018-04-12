@@ -5,8 +5,111 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6880383-a381-4b06-a997-da509da84586" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/css/magnific-popup.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/css/materialize.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/css/responsive_style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/material-design-icons/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/material-design-icons/Material-Design-Icons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/material-design-icons/Material-Design-Icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/material-design-icons/Material-Design-Icons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Bold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Bold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Bold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Bold.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Light.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Light.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Light.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Light.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Medium.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Medium.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Medium.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Medium.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Thin.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Thin.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Thin.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/font/roboto/Roboto-Thin.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Bold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Condensed Bold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Condensed Light.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Condensed Medium.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Condensed Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Light Italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Light.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Medium Italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish Pro Medium.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/relishrro/Relish_Pro.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Bold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Bold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Bold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Bold.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Light.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Light.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Light.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Light.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Medium.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Medium.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Medium.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Medium.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Thin.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Thin.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Thin.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/fonts/roboto/Roboto-Thin.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/background-m.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/background.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/background2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/background3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/icon_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/intro.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic04.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic05.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic06.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/pic07.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/staff1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/staff2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/staff3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/staff4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/test1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/test2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/test3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/img/test4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/plugins.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/vendor/backgroundVideo.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/vendor/imagesloaded.pkgd.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/vendor/jquery-imagefill.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/vendor/jquery.magnific-popup.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/js/vendor/materialize.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/links/gym/video/intro.mp4" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/links/fitness" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_banner.scss" afterPath="$PROJECT_DIR$/sass/components/_banner.scss" />
     </list>
     <ignored path="memyselfandi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,15 +132,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="454" column="73" lean-forward="false" selection-start-line="454" selection-start-column="73" selection-end-line="454" selection-end-column="73" />
+            <state relative-caret-position="273">
+              <caret line="470" column="139" lean-forward="false" selection-start-line="470" selection-start-column="135" selection-end-line="470" selection-end-column="139" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#26624#26630#0" expanded="true" />
-                <marker date="1520890708386" expanded="true" signature="889:1042" ph="..." />
-                <marker date="1520890708386" expanded="true" signature="982:1010" ph="..." />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#26618#26624#0" expanded="true" />
+                <marker date="1523564013136" expanded="true" signature="889:1042" ph="..." />
+                <marker date="1523564013136" expanded="true" signature="982:1010" ph="..." />
               </folding>
             </state>
           </provider>
@@ -144,6 +246,9 @@
       <find>descar</find>
       <find>skill</find>
       <find>widget-title</find>
+      <find>fitne</find>
+      <find>spam</find>
+      <find>fit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -252,9 +357,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,18 +380,55 @@
             <path>
               <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
               <item name="marcosve" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="links" type="462c0819:PsiDirectoryNode" />
+              <item name="gym" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="index.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
               <item name="marcosve" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mixins" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,8 +577,9 @@
       <envs />
     </configuration>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -548,6 +690,7 @@
       <workItem from="1519325305863" duration="2452000" />
       <workItem from="1520538063307" duration="6662000" />
       <workItem from="1520890190741" duration="517000" />
+      <workItem from="1523563749282" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="link a linkedin">
       <created>1473242381146</created>
@@ -595,7 +738,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263059000" />
+    <option name="totallyTimeSpent" value="264686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,7 +751,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -617,12 +759,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25195095" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.78818285" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16364606" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -688,7 +830,8 @@
     <MESSAGE value="Profile changes" />
     <MESSAGE value="[about me] cambio de iconos y disposicion en linea de 5 elementos" />
     <MESSAGE value="[contact me] Maps location changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="[contact me] Maps location changed" />
+    <MESSAGE value="[PORTFOLIO] Links to other projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="[PORTFOLIO] Links to other projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -757,30 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_curriculum.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_portfolio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/profile.jpg" />
     <entry file="file://$PROJECT_DIR$/sass/components/mixins/_cls_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -791,16 +910,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="454" column="73" lean-forward="false" selection-start-line="454" selection-start-column="73" selection-end-line="454" selection-end-column="73" />
+        <state relative-caret-position="273">
+          <caret line="470" column="139" lean-forward="false" selection-start-line="470" selection-start-column="135" selection-end-line="470" selection-end-column="139" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26624#26630#0" expanded="true" />
-            <marker date="1520890708386" expanded="true" signature="889:1042" ph="..." />
-            <marker date="1520890708386" expanded="true" signature="982:1010" ph="..." />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26618#26624#0" expanded="true" />
+            <marker date="1523564013136" expanded="true" signature="889:1042" ph="..." />
+            <marker date="1523564013136" expanded="true" signature="982:1010" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/components/_curriculum.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <marker date="1520546428306" expanded="true" signature="957:962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/components/_about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/components/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5202">
+          <caret line="306" column="3" lean-forward="false" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -820,28 +972,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_reset.scss">
+    <entry file="file://$PROJECT_DIR$/sass/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5202">
-          <caret line="306" column="3" lean-forward="false" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="3" />
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_header.scss">
+    <entry file="file://$PROJECT_DIR$/sass/components/_portfolio.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <marker date="1520546428306" expanded="true" signature="957:962" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding />
         </state>
       </provider>

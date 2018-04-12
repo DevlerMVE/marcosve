@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <title>Fitness Club</title>
+    <meta name="author" content="Marcos Vicente Espasandín">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="shortcut icon" href="./img/icon.png">
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/magnific-popup.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/responsive_style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+</head>
+<body>
+
+<!-- PRELOADER -->
+<div class="full">
+    <div class="preloader-wrapper big active">
+        <div class="spinner-layer spinner-blue">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+
+        <div class="spinner-layer spinner-red">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+
+        <div class="spinner-layer spinner-yellow">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+
+        <div class="spinner-layer spinner-green">
+            <div class="circle-clipper left">
+                <div class="circle"></div>
+            </div>
+            <div class="gap-patch">
+                <div class="circle"></div>
+            </div>
+            <div class="circle-clipper right">
+                <div class="circle"></div>
+            </div>
+        </div>
+    </div>
+</div><!-- .PRELOADER -->
+
+<div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large waves-effect waves-light red darken-4" href="#main">
+        <i class="material-icons">arrow_upward</i>
+    </a>
+</div>
+
+<!-- NAVIGATION BAR -->
+<nav id="navbar" class="navbar-fixed">
+    <div class="nav-wrapper">
+        <a href="#" data-activates="mobile-demo" class="button-collapse white-text">
+            <i class="material-icons">menu</i>
+        </a>
+        <div class="container">
+            <a href="#main" id='logo' class="brand-logo hidden">
+                <div class="logo"></div>
+                <strong>Fitness</strong> Club</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="#ourclass" class="white-text">About Us</a></li>
+                <li><a href="#gallery" class="white-text">Gallery</a></li>
+                <li><a href="#clubcard" class="white-text">Club's Card</a></li>
+                <li><a href="#personal" class="white-text">Our Staff</a></li>
+                <li><a href="#testimonial" class="white-text">Testimonials</a></li>
+                <li><a href="#contactus" class="white-text">Contact Us</a></li>
+            </ul>
+            <ul class="side-nav" id="mobile-demo">
+                <div class="container  red darken-4" id="nav-head">
+                    <div class="row">
+                        <div class="col s12 m12">
+                            <p>
+                                <a !href="">
+                                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                                </a>
+                                <a !href="">
+                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                </a>
+                                <a !href="">
+                                    <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col s12 m3">
+                            <div class="icon"></div>
+                        </div>
+                        <div class="col s12 m9">
+                            <h5>Fitness Club</h5>
+                            <h1>The best fitness experience</h1>
+                        </div>
+                    </div>
+                </div>
+                <li><a href="#ourclass" class="white-text"><i class="material-icons">info</i>About Us</a></li>
+                <li><a href="#gallery" class="white-text"><i class="material-icons">photo_library</i>Gallery</a></li>
+                <li><a href="#clubcard" class="white-text"><i class="material-icons">shopping_cart</i>Club's Card</a></li>
+                <li><a href="#personal" class="white-text"><i class="material-icons">people</i>Our Staff</a></li>
+                <li><a href="#testimonial" class="white-text"><i class="material-icons">message</i>Testimonials</a></li>
+                <li><a href="#contactus" class="white-text"><i class="material-icons">contacts</i>Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+</nav><!-- .NAVIGATION BAR -->
+<!-- HEADER -->
+<div id="main"></div>
+<div id="index-banner" class="parallax-container scrollspy">
+    <div class="overlay diagonal"></div>
+    <div class="section no-pad-bot">
+        <div id="header" class="container">
+            <h1 class="header center teal-text text-lighten-2"><strong>Fitness</strong> Club</h1>
+            <div class="row center">
+                <h5 class="header col s12 light">
+                    Some call them opponents I call them victims
+                </h5>
+            </div>
+            <div class="scroll"></div>
+        </div>
+    </div>
+    <div class="parallax">
+        <img src="img/intro.jpg">
+    </div>
+</div><!-- .HEADER -->
+
+<!-- CLASSES -->
+<div class="container scrollspy" id="ourclass">
+    <div class="section">
+        <!--fight-->
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="text_container">
+                    <h5>OUR CLASSES</h5>
+                    <h1>fight bodybuilding</h1>
+                    <div class="icon" id="boxing"></div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur assumenda
+                        blanditiis
+                        enim eum explicabo fugit hic laboriosam nisi nostrum nulla numquam, quisquam, reiciendis rem
+                        repellendus repudiandae sint ullam ut.</p>
+                    <p>
+                        <a class="waves-effect waves-light btn red darken-4" !href="" target="_blank"> Read
+                            More </a>
+                    </p>
+                </div>
+            </div>
+            <div class="col s12 m6">
+                <div class="picture">
+                    <img src="./img/pic01.jpg">
+                </div>
+            </div>
+        </div>
+        <!--female-->
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="picture">
+                    <img src="./img/pic02.jpg">
+                </div>
+            </div>
+            <div class="col s12 m6">
+                <div class="text_container">
+                    <h5>OUR CLASSES</h5>
+                    <h1>FEMALE BODYBUILDING</h1>
+                    <div class="icon" id="body"></div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus facere hic nulla officiis
+                        recusandae, voluptate? Assumenda aut distinctio ea inventore iste nobis perspiciatis quaerat
+                        soluta, tempore temporibus. Laborum modi, praesentium?</p>
+                    <p>
+                        <a class="waves-effect waves-light btn red darken-4" !href="#" target="_blank"> Read
+                            More </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- Personal trainer -->
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="text_container">
+                    <h5>OUR CLASSES</h5>
+                    <h1>personal trainer</h1>
+                    <div class="icon" id="trainer"></div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci blanditiis culpa,
+                        distinctio
+                        dolores est illo, inventore libero nam nihil nulla odit optio porro provident quod ratione
+                        reiciendis sed ut velit.</p>
+                    <p>
+                        <a class="waves-effect waves-light btn red darken-4" !href="" target="_blank"> Read
+                            More </a>
+                    </p>
+                </div>
+            </div>
+            <div class="col s12 m6">
+                <div class="picture">
+                    <img src="./img/pic03.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- .CLASSES -->
+<!-- GALLERY -->
+<div class="parallax-container valign-wrapper scrollspy" id="gallery">
+    <div class="overlay"></div>
+    <div class="row">
+        <div class="col s12 m12">
+            <h5>OUR GALLERY</h5>
+            <h1>The best photos</h1>
+            <div class="icon" id="gallery_icon"></div>
+        </div>
+        <div class="container">
+            <div class="col s12 m3">
+                <div class="picture z-depth-2">
+                    <a href="./img/pic04.jpg">
+                        <div class="overlay">
+                            <div class="plus">
+                                <i class="material-icons">zoom_in</i>
+                            </div>
+                        </div>
+
+                        <img src="./img/pic04.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <div class="picture z-depth-2">
+                    <a href="./img/pic07.jpg">
+                        <div class="overlay">
+                            <div class="plus">
+                                <i class="material-icons">zoom_in</i>
+                            </div>
+                        </div>
+                        <img src="./img/pic07.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <div class="picture z-depth-2">
+                    <a href="./img/pic06.jpg">
+                        <div class="overlay">
+                            <div class="plus">
+                                <i class="material-icons">zoom_in</i>
+                            </div>
+                        </div>
+                        <img src="./img/pic06.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <div class="picture z-depth-2">
+                    <a href="./img/pic05.jpg">
+                        <div class="overlay">
+                            <div class="plus">
+                                <i class="material-icons">zoom_in</i>
+                            </div>
+                        </div>
+                        <img src="./img/pic05.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="parallax">
+        <img src="img/background.jpg">
+    </div>
+</div><!-- .GALLERY -->
+
+<!-- CLUB CARD -->
+<div class="container scrollspy" id="clubcard">
+    <div class="section">
+        <div class="row">
+            <div class="col s12 m12">
+                <h5>CLUB'S CARD</h5>
+                <h1>Pick a plan</h1>
+                <div class="icon" id="card"></div>
+            </div>
+            <div class="col s12 m12">
+                <div class="card_container">
+                    <div class="card red lighten-5">
+                        <div class="card-content text-grey text-darken-4">
+                            <p><span class="card-title">Economy Card</span></p>
+                            <p><span class="card-subtitle">5 DAYS PASS</span></p>
+                            <h1>$35</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto error nihil
+                                perferendis quo ratione rem! Aspernatur nemo, quis? Animi asperiores beatae dicta et
+                                exercitationem, facilis nesciunt nostrum quam similique sint.</p>
+                        </div>
+                        <div class="card-action">
+                            <a class="waves-effect waves-light btn red darken-4" !href="#">Buy now</a>
+                        </div>
+                    </div>
+                    <div class="card red darken-4" id="default">
+                        <div class="card-content white-text">
+                            <p><span class="card-title">Premium Card</span></p>
+                            <p><span class="card-subtitle">12 MONTH MEMBERSHIP</span></p>
+                            <h1>$1827</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor ducimus impedit
+                                obcaecati
+                                placeat quia! Accusamus ad assumenda dolores dolorum hic impedit, itaque magni natus
+                                nobis porro repudiandae, facilis nesciunt nostrum quam similique sint.</p>
+                        </div>
+                        <div class="card-action">
+                            <a class="waves-effect waves-red btn red white" !href="#">Buy now</a>
+                        </div>
+                    </div>
+                    <div class="card red lighten-5">
+                        <div class="card-content text-grey text-darken-4">
+                            <p><span class="card-title">Standar Card</span></p>
+                            <p><span class="card-subtitle">3 MONTH MEMBERSHIP</span></p>
+                            <h1>$483</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto error nihil
+                                perferendis quo ratione rem! Aspernatur nemo, quis? Animi asperiores beatae dicta et
+                                exercitationem, facilis nesciunt nostrum quam similique sint.</p>
+                        </div>
+                        <div class="card-action">
+                            <a class="waves-effect waves-light btn red darken-4" !href="#">Buy now</a>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- .CLUB CARD -->
+
+<!-- VIDEO PRALLAX -->
+<div class="parallax-container" id="video">
+    <div class="overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="col s12 m3">
+                        <span class="count">99</span>h
+                        <p>Hours</p>
+                    </div>
+                    <div class="col s12 m3">
+                        <span class="count">5</span>+
+                        <p>Trainers</p>
+                    </div>
+                    <div class="col s12 m3">
+                        <span class="count">25</span>
+                        <p>Classes</p>
+                    </div>
+                    <div class="col s12 m3">
+                        <span class="count">15</span>k
+                        <p>Gold Medals</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="outer-wrap" style="width: 100%; height: 450px;">
+        <div id="video-wrap">
+            <video id="my-video" preload="metadata" autoplay loop muted>
+                <source src="video/intro.mp4" type="video/mp4">
+                <source src="video/intro.mp4" type="video/webm">
+            </video>
+        </div>
+    </div>
+    <div class="parallax">
+        <img src="./img/background2.jpg" alt="">
+    </div>
+
+</div><!-- .VIDEO PRALLAX -->
+
+<!-- PERSONAL -->
+<div class="container scrollspy" id="personal">
+    <div class="row">
+        <div class="col s12 m12">
+            <h5>our staff</h5>
+            <h1>perfectly qualified staff</h1>
+            <div class="icon" id="personal_icon"></div>
+        </div>
+        <div class="col s12 m3">
+            <div class="col s12 m12">
+                <img src="./img/staff1.jpg" alt="" class="circle responsive-img">
+            </div>
+            <div class="col s12 m12">
+                <span>· Jiřina Růžičková ·</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aperiam culpa dolor dolorem dolores
+                    ex facilis in.</p>
+                <p class="social_icons">
+                    <a class="waves-light" !href="">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                    </a>
+                </p>
+            </div>
+        </div>
+        <div class="col s12 m3">
+            <div class="col s12 m12">
+                <img src="./img/staff2.jpg" alt="" class="circle responsive-img">
+            </div>
+            <div class="col s12 m12">
+                <span>· Jesse Witt ·</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquid at autem delectus dolorem
+                    enim.</p>
+                <p class="social_icons">
+                    <a !href="">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                    </a>
+                </p>
+            </div>
+        </div>
+        <div class="col s12 m3">
+            <div class="col s12 m12">
+                <img src="./img/staff3.jpg" alt="" class="circle responsive-img">
+            </div>
+            <div class="col s12 m12">
+                <span>· Aleksandra Marić ·</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid amet culpa cum dolorem dolorum,
+                    error.</p>
+                <p class="social_icons">
+                    <a !href="">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                    </a>
+                </p>
+            </div>
+        </div>
+        <div class="col s12 m3">
+            <div class="col s12 m12">
+                <img src="./img/staff4.jpg" alt="" class="circle responsive-img">
+            </div>
+            <div class="col s12 m12">
+                <span>· Vernon J. Webb ·</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, aperiam aspernatur atque debitis
+                    ducimus.</p>
+                <p class="social_icons">
+                    <a !href="">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a !href="">
+                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                    </a>
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div><!-- .PERSONAL -->
+<!-- TESTIMONIALS -->
+<div class="parallax-container scrollspy noselect" id="testimonial">
+    <div class="overlay">
+        <div class="row">
+            <div class="col s12 m12">
+                <h5>TESTIMONIALS</h5>
+                <h1>WHAT THEY SAY ABOUT US</h1>
+                <div class="icon" id="testimonial_icon"></div>
+            </div>
+            <div class="col s12 m12">
+                <div class="carousel carousel-slider center" data-indicators="true">
+                    <div class="carousel-item transparent white-text" href="#one!">
+                        <div class="col s12 m12">
+                            <p class="white-text">"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque
+                                harum maxime obcaecati? Accusantium at culpa esse fugiat fugit iste libero nemo non
+                                nulla optio perferendis quam quod, soluta, sunt voluptate."</p>
+                        </div>
+                        <div class="col s12 m12">
+                            <img src="./img/test1.jpg" alt="" class="circle responsive-img">
+                            <h5>Branca Lía</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item transparent white-text" href="#two!">
+                        <div class="col s12 m12">
+                            <p class="white-text">"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium
+                                dicta esse excepturi harum hic id ipsa laudantium magnam modi, numquam quasi quidem quo
+                                ratione repellat sunt, totam voluptas, voluptate voluptates."</p>
+                        </div>
+                        <div class="col s12 m12">
+                            <img src="./img/test4.jpg" alt="" class="circle responsive-img">
+                            <h5>Ivane Misho</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item transparent white-text" href="#three!">
+                        <div class="col s12 m12">
+                            <p class="white-text">"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium
+                                ad consectetur ea explicabo facilis harum illum incidunt iusto minima, nesciunt nostrum
+                                officiis pariatur quod rem ut! Beatae facere iure repellendus."</p>
+                        </div>
+                        <div class="col s12 m12">
+                            <img src="./img/test2.jpg" alt="" class="circle responsive-img">
+                            <h5>Treasa Maja</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item transparent white-text" href="#four!">
+                        <div class="col s12 m12">
+                            <p class="white-text">"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores
+                                nostrum, saepe. Asperiores deleniti fugit in odit quaerat rerum, voluptas voluptate. Ab
+                                cum dicta dolore illo mollitia nisi nobis quasi totam."</p>
+                        </div>
+                        <div class="col s12 m12">
+                            <img src="./img/test3.jpg" alt="" class="circle responsive-img">
+                            <h5>Mathúin Loke</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="parallax">
+        <img src="./img/background3.jpg" alt="">
+    </div>
+</div><!-- .TESTIMONIALS -->
+
+<div class="container scrollspy" id="contactus">
+    <div class="section">
+        <div class="row">
+            <div class="col s12 m12">
+                <h5>CONNECT WITH US</h5>
+                <h1>do you have questions to ask?</h1>
+                <div class="icon" id="contact"></div>
+            </div>
+            <div class="col s12 m12">
+                <div class="card white">
+                    <div class="card-content black-text">
+                        <div class="row">
+                            <div class="col s12 m8">
+                                <h5>Contact form</h5>
+                                <div class="row">
+                                    <form class="col s12">
+                                        <div class="row">
+                                            <div class="input-field col s6">
+                                                <input id="name" type="text" class="validate">
+                                                <label for="name">Your Name*</label>
+                                            </div>
+                                            <div class="input-field col s6">
+                                                <input id="phone" type="text" class="validate">
+                                                <label for="phone">Phone Number</label>
+                                            </div>
+                                            <div class="input-field col s6">
+                                                <input id="email" type="text" class="validate">
+                                                <label for="email">Your Email*</label>
+                                            </div>
+                                            <div class="input-field col s6">
+                                                <input id="subject" type="text" class="validate">
+                                                <label for="subject">Subject</label>
+                                            </div>
+                                            <div class="input-field col s12">
+                                                <textarea id="textarea" class="materialize-textarea"></textarea>
+                                                <label for="textarea">Write here your message...</label>
+                                            </div>
+                                        </div>
+                                        <p>
+                                            <a class="waves-effect waves-light btn red darken-4" !href=""
+                                               target="_blank">send
+                                                message </a>
+                                        </p>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col s12 m4  red darken-4  white-text adress">
+                                <div class="row">
+                                    <h5>Contact info</h5>
+                                </div>
+                                <div class="row">
+                                    <div class="info">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                            tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <div class="row">
+                                            <div id="adressinfo">
+                                                <p class="contactinfo">
+                                                    <i class="material-icons">gps_fixed</i><span>Adress:</span>
+                                                </p>
+                                                <p>Main Street 15/12a, 019-12</p>
+                                                <p class="text_content">Warsaw, Poland</p>
+                                            </div>
+                                            <div id="phoneinfo">
+                                                <p class="contactinfo">
+                                                    <i class="material-icons">
+                                                        phone_in_talk</i><span>Phone Number:</span>
+                                                </p>
+                                                <p class="text_content">+34-660604560</p>
+                                            </div>
+                                            <div id="mailinfo">
+                                                <p class="contactinfo">
+                                                    <i class="material-icons">email</i><span>Email:</span>
+                                                </p>
+                                                <p>someemail@mail.com</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <p>
+                                                <a !href="">
+                                                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                                                </a>
+                                                <a !href="">
+                                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                                </a>
+                                                <a !href="">
+                                                    <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="map">
+    <div id="map"></div>
+</div>
+<footer class="page-footer scrollspy">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m5">
+                <div class="col s12 m12">
+                    <h5 class="white-text">
+                        ABOUT US
+                    </h5>
+                    <p class="grey-text text-lighten-2">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aperiam doloribus facilis id
+                        molestias quibusdam repellat veniam! Blanditiis consequatur, delectus distinctio libero minima
+                        neque
+                        obcaecati pariatur quaerat quam, quibusdam voluptatibus?
+                    </p>
+                </div>
+                <div class="col s12 m12">
+                    <p class="grey-text">ADRESS: <span class="grey-text text-lighten-2">Main Street 15/12a, 019-12 / Warsaw, Poland</span>
+                    </p>
+                    <p class="grey-text">PHONE: <span class="grey-text text-lighten-2">+34-660604560</span></p>
+                    <p class="grey-text">EMAIL: <span class="grey-text text-lighten-2">someemail@mail.com</span></p>
+                </div>
+            </div>
+            <div class="col s12 m4" id="twits">
+                <h5 class="white-text">
+                    LATEST TWEETS
+                </h5>
+                <div class="row grey-text text-lighten-2">
+                    <div class="col s12 m1"><p><i class="fa fa-twitter"></i></p></div>
+                    <div class="col s12 m11">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid commodi
+                            delectus dolorum enim facilis harum incidunt iure modi molestias odio quasi ratione.</p>
+                    </div>
+                </div>
+                <div class="row grey-text text-lighten-2">
+                    <div class="col s12 m1"><p><i class="fa fa-twitter"></i></p></div>
+                    <div class="col s12 m11">
+                        <p>Amet aperiam blanditiis debitis eveniet hic rerum sed? Accusantium aspernatur autem culpa cum
+                            dolores dolorum error harum laudantium maiores natus.</p>
+                    </div>
+                </div>
+                <div class="row grey-text text-lighten-2">
+                    <div class="col s12 m1"><p><i class="fa fa-twitter"></i></p></div>
+                    <div class="col s12 m11">
+                        <p>A ab assumenda corporis culpa dolorem doloremque hic! Ad aliquam
+                            cumque explicabo fugit, in ipsa maiores minima nisi possimus provident reiciendis.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m3">
+                <h5 class="white-text">
+                    WORKING HOURS
+                </h5>
+                <p class="grey-text schedule">Monday<span
+                        class="dotted"> ............................................. </span><span
+                        class="working-time grey-text text-lighten-2">07.00-21:00</span>
+                </p>
+                <p class="grey-text schedule">Tuesday<span
+                        class="dotted"> ............................................. </span><span
+                        class="working-time grey-text text-lighten-2">07.00-21:00</span>
+                </p>
+                <p class="grey-text schedule">Wednesday<span
+                        class="dotted"> ........................................ </span><span
+                        class="working-time grey-text text-lighten-2">07.00-21:00</span>
+                </p>
+                <p class="grey-text schedule">Thursday<span
+                        class="dotted"> ............................................ </span><span
+                        class="working-time grey-text text-lighten-2">07.00-21:00</span>
+                </p>
+                <p class="grey-text schedule">Friday<span
+                        class="dotted"> ................................................. </span><span
+                        class="working-time grey-text text-lighten-2">07.00-21:00</span>
+                </p>
+                <p class="grey-text schedule">Saturday<span
+                        class="dotted schedule"> ............................................ </span><span
+                        class="working-time grey-text text-lighten-2">07.00-21:00</span>
+                </p>
+                <p class="grey-text schedule">Sunday<span class="dotted"> ............................................................. </span><span
+                        class="working-time grey-text text-lighten-2">Off</span></p>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-copyright ">
+        <div class="container">
+            Made by <a class="grey-text " href="#">Devler</a>
+        </div>
+    </div>
+</footer>
+
+
+<!--  Scripts-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="js/vendor/materialize.min.js"></script>
+<script src="js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="js/vendor/jquery-imagefill.js"></script>
+<script src="js/vendor/backgroundVideo.min.js"></script>
+<script src="js/vendor/jquery.magnific-popup.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxdHOIZcKZUyzB7wXAa18HuSsAn3Um26A&callback=initMap"
+        async
+        defer></script>
+
+</body>
+</html>

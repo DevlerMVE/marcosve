@@ -3203,7 +3203,7 @@ hr {
     -webkit-animation-delay: 0.5s;
     -moz-animation-duration: 1s;
     -moz-animation-delay: 0.5s; }
-    .welcome-text h5 spam {
+    .welcome-text h5 span {
       font-family: "Relish Pro";
       font-size: 2.4rem;
       padding-left: 1%; }
