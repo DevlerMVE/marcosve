@@ -2257,17 +2257,17 @@
   display: none; }
 
 @font-face {
-  font-family: "robotolight";
+  font-family: "light";
   font-weight: normal;
-  src: url("../fonts/roboto/Roboto-Light-webfont.eot?") format("eot"), url("../fonts/roboto/Roboto-Light-webfont.woff2") format("woff2"), url("../fonts/roboto/Roboto-Light-webfont.woff") format("woff"), url("../fonts/roboto/Roboto-Light-webfont.ttf") format("truetype"), url("../fonts/roboto/Roboto-Light-webfont.svg#robotolight") format("svg"); }
+  src: url("../fonts/roboto/Roboto-Light-webfont.eot?") format("eot"), url("../fonts/roboto/Roboto-Light-webfont.woff2") format("woff2"), url("../fonts/roboto/Roboto-Light-webfont.woff") format("woff"), url("../fonts/roboto/Roboto-Light-webfont.ttf") format("truetype"), url("../fonts/roboto/Roboto-Light-webfont.svg#light") format("svg"); }
 @font-face {
-  font-family: "robotoregular";
+  font-family: "regular";
   font-weight: normal;
-  src: url("../fonts/roboto/Roboto-Regular-webfont.eot?") format("eot"), url("../fonts/roboto/Roboto-Regular-webfont.woff2") format("woff2"), url("../fonts/roboto/Roboto-Regular-webfont.woff") format("woff"), url("../fonts/roboto/Roboto-Regular-webfont.ttf") format("truetype"), url("../fonts/roboto/Roboto-Regular-webfont.svg#robotoregular") format("svg"); }
+  src: url("../fonts/roboto/Roboto-Regular-webfont.eot?") format("eot"), url("../fonts/roboto/Roboto-Regular-webfont.woff2") format("woff2"), url("../fonts/roboto/Roboto-Regular-webfont.woff") format("woff"), url("../fonts/roboto/Roboto-Regular-webfont.ttf") format("truetype"), url("../fonts/roboto/Roboto-Regular-webfont.svg#regular") format("svg"); }
 @font-face {
-  font-family: "robotobold";
+  font-family: "bold";
   font-weight: normal;
-  src: url("../fonts/roboto/Roboto-Bold-webfont.eot?") format("eot"), url("../fonts/roboto/Roboto-Bold-webfont.woff2") format("woff2"), url("../fonts/roboto/Roboto-Bold-webfont.woff") format("woff"), url("../fonts/roboto/Roboto-Bold-webfont.ttf") format("truetype"), url("../fonts/roboto/Roboto-Bold-webfont.svg#robotobold") format("svg"); }
+  src: url("../fonts/roboto/Roboto-Bold-webfont.eot?") format("eot"), url("../fonts/roboto/Roboto-Bold-webfont.woff2") format("woff2"), url("../fonts/roboto/Roboto-Bold-webfont.woff") format("woff"), url("../fonts/roboto/Roboto-Bold-webfont.ttf") format("truetype"), url("../fonts/roboto/Roboto-Bold-webfont.svg#bold") format("svg"); }
 @font-face {
   font-family: "Relish Pro";
   font-weight: normal;
@@ -2872,7 +2872,7 @@ textarea {
 body {
   font-size: 14px;
   line-height: 24px;
-  font-family: 'robotoregular';
+  font-family: 'regular';
   overflow-x: hidden;
   -ms-overflow-style: -ms-autohiding-scrollbar; }
 
@@ -2906,7 +2906,7 @@ a {
 
 h4.widget-title {
   font-size: 1.5rem;
-  font-family: "robotobold";
+  font-family: "bold";
   text-transform: uppercase;
   margin-bottom: 50px;
   position: relative; }
@@ -3013,7 +3013,7 @@ hr {
 .profile-title {
   margin-bottom: 5px;
   font-size: 18px;
-  font-family: "robotobold"; }
+  font-family: "bold"; }
 
 .main-navigation {
   margin: 15px 0; }
@@ -3188,7 +3188,7 @@ hr {
   .welcome-text h2 {
     font-size: 42px;
     margin-bottom: 30px;
-    font-family: "robotobold"; }
+    font-family: "bold"; }
   .welcome-text h3 {
     color: #999;
     font-size: 20px;

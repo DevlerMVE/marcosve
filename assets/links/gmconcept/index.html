@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Material Design for Bootstrap</title>
+    <!-- Material Design Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- General CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+<!--Navigation-->
+<nav class="navbar navbar-fixed-top z-depth-1 color" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand waves-effect waves-light" href="#">Google Maps App using AJAX and API REST</a>
+        </div>
+        <div class="collapse  navbar-collapse" id="bs-example-navbar-collapse-1">
+            <form class="navbar-form navbar-right" role="search">
+                <div class="form-group waves-effect waves-light width150">
+                    <input id='pac-input' type="text" class="form-control width150" placeholder="Find a Place">
+                </div>
+            </form>
+        </div>
+    </div>
+</nav>
+<!--/.Navigation-->
+
+<section class="page1">
+    <div class="main-wrapper top">
+        <div class="view overlay hm-blue-slight z-depth-1 hoverable">
+            <div id="map">
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="page-footer special-color center-on-small-only">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <h5 class="white-text">Footer Content</h5>
+                <p class="grey-text text-lighten-4">Here you can use rows and columns here to organize your footer
+                    content.</p>
+            </div>
+            <div class="col-md-6">
+                <ul>
+                    <li>
+                        <a href="https://developers.google.com/maps/documentation/javascript/examples/?hl=es"
+                           target="_blank">
+                            Developers Google
+                        </a>
+                    </li>
+                    <li>
+                        <a class="grey-text text-lighten-3" href="https://design.google.com/icons/">Material Design
+                            Icons - Google</a>
+                    </li>
+                    <li>
+                        <a class="grey-text text-lighten-3"
+                           href="https://www.google.com/design/spec/material-design/introduction.html">Meterial Design
+                            Introduction</a>
+                    </li>
+                    <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright text-center special-color-dark">
+        <div class="container-fluid">
+            © 2015 Copyright: <a href="http://www.MDBootstrap.com"> MDBootstrap.com </a>
+        </div>
+    </div>
+</footer>
+<!-- SCRIPTS -->
+<script src="js/functions.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAa0ZGAGo2ebCV5kBLgqyM3qzuROvMgmbw&callback=initMap"
+        type="text/javascript"></script>
+<!-- JQuery -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<!-- Material Design Bootstrap -->
+<script type="text/javascript" src="js/mdb.min.js"></script>
+
+</body>
+</html>

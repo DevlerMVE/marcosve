@@ -1,0 +1,58 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#map {
+	height: 100vh;
+	width: 100%;
+}
+.col-md-9 {
+	padding: 0;
+}
+
+a.btn {
+	width: 100%;
+}
+.navbar, 
+.navbar-fixed-top{
+	background-color: #3F729B !important;
+}
+
+.width150 {
+	width: 150% !important;
+}
+
+.page1 {
+	height: 100vh;
+}
+footer.page-footer{
+	margin-top: 0 !important;
+}
+.more{
+	width: 50%;
+	margin: 0 auto;
+	top: 14.5px;
+}
+.icon-list{
+	width: 25px;
+	height: 25px;
+	margin: 0 auto;
+	top: 5.5px;
+}
+ul .btn-floating{
+	opacity: 0;
+}
+.streetview.card{
+	top: 80px !important;
+	right: 5px !important;
+	width: 30% !important;
+	height: 30vh !important;
+	display: none;
+}
+.card.hoverable{
+	margin: 0 !important;
+}
+#street-view {
+	height: 30vh;
+}

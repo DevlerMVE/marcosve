@@ -105,7 +105,6 @@ a:focus {
 .page-section h2,
 .content.box.style2 h2 {
     font-size: 5rem;
-    font-family: 'Source Sans Pro';
 }
 
 .padding_seven {
@@ -152,7 +151,6 @@ a:focus {
     font-size: 8rem;
     text-transform: none;
     font-weight: bold;
-    font-family: 'Source Sans Pro';
 }
 
 .button.down, button.down {

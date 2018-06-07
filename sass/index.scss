@@ -10,9 +10,9 @@
 @import "components/pace-theme";
 
 // Font
-@include font-face(robotolight, '../fonts/roboto/Roboto-Light-webfont', normal);
-@include font-face(robotoregular, '../fonts/roboto/Roboto-Regular-webfont', normal);
-@include font-face(robotobold, '../fonts/roboto/Roboto-Bold-webfont', normal);
+@include font-face(light, '../fonts/Montserrat/Montserrat-Light', normal);
+@include font-face(regular, '../fonts/Montserrat/Montserrat-Regular', normal);
+@include font-face(bold, '../fonts/Montserrat/Montserrat-Bold', normal);
 @include font-face('Relish Pro', '../fonts/relishpro/Relish_Pro', normal);
 
 // Variables
