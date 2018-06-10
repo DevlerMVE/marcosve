@@ -131,7 +131,6 @@ function CenterControl(controlDiv, map) {
 		}
 	});
 }
-
 function initMap() {
 	map = new google.maps.Map(document.getElementById('map'), {
 		center: santiago,
@@ -175,7 +174,6 @@ function initMap() {
 	findPlace();
 
 }
-
 function handleLocationError(browserHasGeolocation, infoWindow, pos) {
 	infoWindow.setPosition(pos);
 	infoWindow.setContent(browserHasGeolocation ?
@@ -183,7 +181,6 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
 						  'Error: Your browser doesn\'t support geolocation.');
 
 }
-
 function getLocation(){
 	// Try HTML5 geolocation.
 	if (navigator.geolocation) {
@@ -231,7 +228,7 @@ function initStreetView() {
 	panorama = new google.maps.StreetViewPanorama(
 		document.getElementById('street-view'),
 		{
-			position: pos,
+			position: pos_actual,
 			pov: {heading: 165, pitch: 0},
 			zoom: 1
 		});
@@ -254,7 +251,7 @@ function findPlace(){
 	searchBox.addListener('places_changed', function() {
 		var places = searchBox.getPlaces();
 
-		if (places.length == 0) {
+		if (places.length === 0) {
 			return;
 		}
 
@@ -291,6 +288,7 @@ function findPlace(){
 			}
 		});
 		map.fitBounds(bounds);
+		pos_actual = places[0].geometry.location;
 	});
 	// [END region_getplaces]
 }
