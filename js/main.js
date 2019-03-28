@@ -126,9 +126,9 @@ function scrollTopAnimations() {
      * scroll top charts
      * */
     if (scroll_start > charts_top.top && !chart) {
-        setCircleChart(0.7, $('#html_five'));
-        setCircleChart(0.65, $('#android'));
-        setCircleChart(0.75, $('#design'));
+        setCircleChart(0.75, $('#html_five'));
+        setCircleChart(0.7, $('#android'));
+        setCircleChart(0.8, $('#design'));
         chart = true;
     }
     /*

@@ -103,6 +103,14 @@
         image: url('../img/plexus.png');
       }
     }
+    &#altia {
+      top: 45px;
+      background: {
+        color: $c_white;
+        image: url('../img/altia.png');
+        size: 75%;
+      }
+    }
   }
 }
 
