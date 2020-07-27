@@ -1,36 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/sass/components/_banner.scss" line="63" />
-    <bookmark url="file://$PROJECT_DIR$/.idea/workspace.xml" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="a6880383-a381-4b06-a997-da509da84586" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CV_MarcosVE.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CV_MarcosVE.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular-webfont.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_curriculum.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_curriculum.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/mixins/_font-face.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/mixins/_font-face.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/index.scss" afterDir="false" />
     </list>
-    <ignored path="memyselfandi.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,116 +11,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="memyselfandi" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="316" column="61" selection-start-line="316" selection-start-column="61" selection-end-line="316" selection-end-column="61" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10559#10565#0" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#28224#28230#0" expanded="true" />
-                <marker date="1553798335528" expanded="true" signature="889:1042" ph="..." />
-                <marker date="1553798335528" expanded="true" signature="982:1010" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/components/_curriculum.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="130" column="26" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/plugins.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="39" column="23" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/index.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/components/_about.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/components/mixins/_font-face.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="4366" column="29" selection-start-line="4366" selection-start-column="29" selection-end-line="4366" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/components/_header.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="109" column="21" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/components/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,42 +21,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>profile-image</find>
-      <find>$s-button</find>
-      <find>donwload</find>
-      <find>descar</find>
-      <find>skill</find>
-      <find>widget-title</find>
-      <find>fitne</find>
-      <find>spam</find>
-      <find>fit</find>
-      <find>robotoregular</find>
-      <find>robotolight</find>
-      <find>robotobold</find>
-      <find>$font_roboto_bold</find>
-      <find>1295</find>
-      <find>h2 {</find>
-      <find>pac-inputpac-inputpac-input</find>
-      <find>pac-input</find>
-      <find>pos</find>
-      <find>facebook</find>
-      <find>profi</find>
-      <find>face</find>
-      <find>100</find>
-      <find>diseño</find>
-      <find>html_five</find>
-      <find>Diseño / Desarrollo Web</find>
-      <find>plexus</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>regular</replace>
-      <replace>light</replace>
-      <replace>bold</replace>
-      <replace>$bold</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -202,52 +29,11 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/sass/_reset.scss" />
-        <option value="$PROJECT_DIR$/css/templatemo-style.css" />
-        <option value="$PROJECT_DIR$/js/functions.js" />
-        <option value="$PROJECT_DIR$/src/assets/particles.json" />
-        <option value="$PROJECT_DIR$/src/css/plugin/pace-theme.css" />
-        <option value="$PROJECT_DIR$/src/css/responsive_style.css" />
-        <option value="$PROJECT_DIR$/src/js/plugins.js" />
-        <option value="$PROJECT_DIR$/src/js/main.js" />
-        <option value="$PROJECT_DIR$/src/css/style.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/css/responsive_style.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/plugins.js" />
-        <option value="$PROJECT_DIR$/sass/components/mixins/cls_mixins.scss" />
-        <option value="$PROJECT_DIR$/sass/components/mixins/_cls_mixins.scss" />
-        <option value="$PROJECT_DIR$/sass/components/_banner.scss" />
-        <option value="$PROJECT_DIR$/sass/components/_about.scss" />
-        <option value="$PROJECT_DIR$/sass/components/_reset.scss" />
-        <option value="$PROJECT_DIR$/sass/components/_variables.scss" />
-        <option value="$PROJECT_DIR$/assets/links/eureka/index.html" />
-        <option value="$PROJECT_DIR$/assets/links/eureka/js/main.js" />
-        <option value="$PROJECT_DIR$/assets/links/gmconcept/index.html" />
-        <option value="$PROJECT_DIR$/assets/links/gmconcept/js/functions.js" />
-        <option value="$PROJECT_DIR$/sass/index.scss" />
-        <option value="$PROJECT_DIR$/sass/components/mixins/_font-face.scss" />
-        <option value="$PROJECT_DIR$/sass/components/_header.scss" />
-        <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/sass/components/_curriculum.scss" />
-      </list>
-    </option>
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
-  </component>
+  <component name="ProjectId" id="1fHE27tsMdIh9iC7tTY0wepX3Jy" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -274,59 +60,9 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marcosve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marcosve" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="mixins" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -357,18 +93,6 @@
       <recent name="D:\Documentos\GitHub\memyselfandi\src\fonts\roboto" />
       <recent name="D:\Documentos\GitHub\memyselfandi\src\fonts\RelishPro" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.gmconcept">
     <configuration default="true" type="WebSphereRunConfigurationType" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -465,6 +189,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -577,6 +302,7 @@
       <workItem from="1549917937508" duration="177000" />
       <workItem from="1550932234215" duration="5000" />
       <workItem from="1553795777753" duration="3130000" />
+      <workItem from="1595866410181" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="link a linkedin">
       <created>1473242381146</created>
@@ -644,9 +370,6 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279595000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -656,67 +379,15 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21601686" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Palette&#9;" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Grunt " order="6" sideWeight="0.29986244" side_tool="true" weight="0.25229034" />
-      <window_info id="npm" order="7" sideWeight="0.48" side_tool="true" weight="0.21353066" />
-      <window_info id="Favorites" order="8" side_tool="true" weight="0.18869936" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4077348" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.16373627" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Designer" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -735,6 +406,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -757,217 +429,15 @@
     <MESSAGE value="[UPDATE] Arreglos de warnigs en consola" />
     <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] Arreglos de warnigs en consola" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="2587" y="273" width="585" height="534" key="find.popup" timestamp="1595866454211">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="273" width="585" height="534" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1595866454211" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/css/plugin/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/src/js/vendor/imagesloaded.pkgd.min.js" />
-    <entry file="file://$PROJECT_DIR$/src/assets/particles.json" />
-    <entry file="file://$PROJECT_DIR$/src/js/vendor/jquery-imagefill.js" />
-    <entry file="file://$PROJECT_DIR$/src/img/cd-icon-location.svg" />
-    <entry file="file://$PROJECT_DIR$/src/css/plugin/pace-theme.css" />
-    <entry file="file://$PROJECT_DIR$/src/img/icon.png" />
-    <entry file="file://$PROJECT_DIR$/src/img/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/js/vendor/circle-progress.js" />
-    <entry file="file://$PROJECT_DIR$/src/img/4.png" />
-    <entry file="file://$PROJECT_DIR$/src/js/vendor/jquery.stellar.js" />
-    <entry file="file://$PROJECT_DIR$/src/css/responsive_style.css" />
-    <entry file="file://$PROJECT_DIR$/src/js/plugins.js" />
-    <entry file="file://$PROJECT_DIR$/src/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/css/responsive_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/profile.jpg" />
-    <entry file="file://$PROJECT_DIR$/assets/links/eureka/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="50" column="189" selection-start-line="50" selection-start-column="189" selection-end-line="50" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/links/eureka/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="204" column="195" selection-start-line="204" selection-start-column="195" selection-end-line="204" selection-end-column="195" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_reset.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="306" column="3" selection-start-line="306" selection-start-column="3" selection-end-line="306" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_banner.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_portfolio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="https://maps.googleapis.com/maps-api-v3/api/js/33/3/intl/es_ALL/controls.js">
-      <provider selected="true" editor-type-id="httpFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/links/gmconcept/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="125" selection-start-line="85" selection-start-column="125" selection-end-line="85" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/links/gmconcept/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="287" column="13" selection-start-line="287" selection-start-column="13" selection-end-line="287" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/10.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/balidea.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/relishpro/Relish_Pro.ttf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/mixins/_cls_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/mixins/_font-face.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/profile.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="109" column="21" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="130" column="26" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="4366" column="29" selection-start-line="4366" selection-start-column="29" selection-end-line="4366" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/components/_curriculum.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="316" column="61" selection-start-line="316" selection-start-column="61" selection-end-line="316" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10559#10565#0" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#1;n#div#5;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#28224#28230#0" expanded="true" />
-            <marker date="1553798335528" expanded="true" signature="889:1042" ph="..." />
-            <marker date="1553798335528" expanded="true" signature="982:1010" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
